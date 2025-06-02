@@ -2,4 +2,4 @@
 
 set -e 
 
-docker rm -f $(docker ps -a -q)
+docker rm -f v1
