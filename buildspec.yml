@@ -9,7 +9,7 @@ env:
 phases:
   install:
     runtime-versions:
-      python: 3.11
+      python: 3.10
   pre_build:
     commands:
       - echo "Installing dependencies..."
