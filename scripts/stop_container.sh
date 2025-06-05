@@ -2,4 +2,4 @@
 
 set -e
 
-docker rm -f $(docker ps -q)
+docker rm -f my-flask-app
