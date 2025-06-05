@@ -2,5 +2,4 @@
 
 set -e
 
-##docker rm -f $(docker ps -q)
-echo "hi"
+docker rm -f $(docker ps -q)
