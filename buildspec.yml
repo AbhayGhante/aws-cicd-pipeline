@@ -28,6 +28,6 @@ phases:
 
 artifacts:
   files:
-    - '**/*'
+    - 'scripts/*'
   base-directory: .
 
